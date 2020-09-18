@@ -1,0 +1,15 @@
+{
+  "name": "test-git-2",
+  "version": "1.0.0",
+  "description": "Testing Git for the first time, used to use TFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "git"
+  ],
+  "author": "Sean Roughton",
+  "license": "ISC"
+}
